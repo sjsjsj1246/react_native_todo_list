@@ -96,6 +96,13 @@
 			name = react_native_todo_list;
 			sourceTree = "<group>";
 		};
+		2CFB238059B14A5FB3C67AC8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +129,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				F7D2FCF14307C3E956D50545 /* Pods */,
+				2CFB238059B14A5FB3C67AC8 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -145,7 +153,6 @@
 				6FBDF176D140186D9FB3D9DB /* Pods-react_native_todo_list-react_native_todo_listTests.debug.xcconfig */,
 				F2211A737AEC367C960E37E8 /* Pods-react_native_todo_list-react_native_todo_listTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
